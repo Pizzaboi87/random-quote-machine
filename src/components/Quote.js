@@ -55,7 +55,6 @@ const Quote = () => {
                 break;
             case "Han Solo":
                 document.body.style.backgroundImage = `url(${image[3]})`;
-                document.body.style.backgroundPositionY = "20%";
                 break;
             case "Jyn Erso":
                 document.body.style.backgroundImage = `url(${image[4]})`;
@@ -80,7 +79,6 @@ const Quote = () => {
                 break;
             case "Qui-Gon Jinn":
                 document.body.style.backgroundImage = `url(${image[11]})`;
-                document.body.style.backgroundPositionY = "50%";
                 break;
             default:
                 document.body.style.backgroundImage = `url(${image[12]})`;
