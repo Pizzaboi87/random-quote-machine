@@ -2,7 +2,7 @@ const image = [
     "/images/ahsoka-tano.jpg",
     "/images/c3-po.jpg",
     "/images/darth-vader.jpg",
-    "/images/han-solo.jpeg",
+    "/images/han-solo.jpg",
     "/images/jyn-erso.jpg",
     "/images/kylo-ren.jpg",
     "/images/leia-organa.jpg",
